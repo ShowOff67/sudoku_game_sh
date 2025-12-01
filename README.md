@@ -1,4 +1,5 @@
 "# sudoku_game_sh" 
+
 A fully interactive Sudoku game written entirely in Bash, complete with:
 
 - Terminal-rendered Sudoku board
