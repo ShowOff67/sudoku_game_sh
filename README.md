@@ -24,15 +24,15 @@ This project demonstrates how far you can push plain Bash scripting — includin
 
 level (optional):
 
-Integer from 1 to 8
+- Integer from 1 to 8
 
-Higher level = more empty cells
+- Higher level = more empty cells
 
-Default: 1
+- Default: 1
 
 Example:
 
-./sudoku.sh 5
+'./sudoku.sh 5'
 
 🎮 Controls
 - Key	Action
